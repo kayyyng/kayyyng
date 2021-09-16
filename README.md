@@ -1,4 +1,4 @@
-Hi, I am Kay, a final year student double-majoring in Decision Analytics and Biomedical Sciences at the University of Hong Kong.
+Hi, I am Kay, a final year student with a double major of Decision Analytics and Biomedical Sciences at the University of Hong Kong.
 
 ### I'm interested in ...
 1. Programming:
