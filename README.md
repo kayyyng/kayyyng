@@ -11,7 +11,7 @@ My study in Decision Analytics helps me demystify how AI works. I have finally u
 ### In this github, you can find 3 repositories:
 
 ### 1. Final-Year-Project-on-COVID-19
-In my final year project for Biomedical Sciences, I evaluated methods to identify SARS-CoV-2 variants with enhanced transmission rates from epidemiological and phylogenetic data. 
+For my final year project of Biomedical Sciences, I evaluated methods to identify SARS-CoV-2 variants with enhanced transmission rates from epidemiological and phylogenetic data. 
 
 Highlight of the project:
 - I summarised existing epidemiological methods for calculating relative transmission rates of pathogens from literature, analysed their relevancies to SARS-CoV-2 and the availability of their data inputs.
@@ -22,7 +22,7 @@ Highlight of the project:
 The repository enclosed part of the codes used for constructing the inference model (e.g. main_all_country.R). Feel free to reach out to me about the methodology and analysis.
 
 ### 2. Machine Learning
-The repository enclosed different machine learning models I have come across throughout my study in Decision Analytics. The models are divided into two categories: 
+The repository enclosed different machine learning models I have constructed throughout my study in Decision Analytics. The models are divided into two categories: 
 
 - models using scikit-learn; and 
 - models built from scratch
